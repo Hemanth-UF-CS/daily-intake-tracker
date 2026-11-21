@@ -12,7 +12,7 @@ This is an educational tracker, not a medical device.
 
 **https://daily-intake-tracker.vercel.app**
 
-GitHub: [S-HEMANTH-REDDY/daily-intake-tracker](https://github.com/S-HEMANTH-REDDY/daily-intake-tracker)
+GitHub: [Hemanth-UF-CS/daily-intake-tracker](https://github.com/Hemanth-UF-CS/daily-intake-tracker)
 
 ## Stack
 
